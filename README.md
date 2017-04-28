@@ -1,5 +1,7 @@
 # Passport-box
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/toanalien/passport-box.svg)](https://greenkeeper.io/)
+
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
 with [box](http://box.com/) using the OAuth 2.0 API.
 
